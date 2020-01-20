@@ -1,0 +1,5 @@
+/media/l/Data/pemograman/mono/malas/malas/bin/Debug/malas.exe
+/media/l/Data/pemograman/mono/malas/malas/bin/Debug/malas.pdb
+/media/l/Data/pemograman/mono/malas/malas/obj/x86/Debug/malas.csprojAssemblyReference.cache
+/media/l/Data/pemograman/mono/malas/malas/obj/x86/Debug/malas.exe
+/media/l/Data/pemograman/mono/malas/malas/obj/x86/Debug/malas.pdb
